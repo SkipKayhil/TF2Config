@@ -1,5 +1,5 @@
-TF2Config
-=========
+Skipped's TF2 Configs
+=====================
 
 These are the config files I use to play TF2. They include simple things such as enabling raw_input and disabling mouse acceleration and also some more complex things like weapon based crosshairs and disabling viewmodels for certain classes.
 
