@@ -21,11 +21,11 @@ You can download the zipped files on the right.
 While the new location is probably much easier for managing which configs you are using, I still use the original location for my CFGs.
 
 ###Chris' FPS Configs
-I ~~have~~ _will_ include the remainder of Chris' fps configs. Unfortunately, he is not actively updating them anymore, but they still work really well for me. To change which config is being used, go into autoexec.cfg and change the first line to the name of the one you want.
+I have included the remainder of Chris' fps configs. Unfortunately, he is not actively updating them, but they still work really well for me. To change which config is being used, go into autoexec.cfg and change the first line to the name of the one you want.
 
 Example: `exec _highframes.cfg`
 
-You can also go into one of Chris' configs and use the launch options listed there.
+You can also go into one of Chris' configs and use the launch options listed there. (I recommend it)
 
 **PLEASE REMEMBER TO REMOVE THE DXLEVEL COMMAND AFTER YOU HAVE LAUNCHED TF2 ONCE WITH IT**
 
